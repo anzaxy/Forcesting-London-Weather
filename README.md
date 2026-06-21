@@ -46,6 +46,6 @@ Proyek ini mengikuti seluruh tahapan dalam framework **CRISP-DM**, mulai dari Bu
 
 ## 📌 Catatan
 
-Proyek ini dibuat sebagai tugas akhir mata kuliah **Data Mining** dengan dosen pengampu **Agus Rifaldi, S.Kom**.
+Proyek ini dibuat sebagai tugas akhir mata kuliah **Konsep Data Warehouse & Mining**
 
 ---
